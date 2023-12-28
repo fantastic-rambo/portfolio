@@ -1,0 +1,6 @@
+*cache*
+venv/
+.DS_Store
+.ipynb_checkpoints/
+test_trainer/
+flagged/
