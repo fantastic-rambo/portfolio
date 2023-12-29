@@ -5,7 +5,7 @@ This is a static HTML/CSS Glassmorphism Portfolio based on @developedbyed [tutor
 <p align="center">
   <img  src="images/screenshot.PNG">
 
-### **Live [DEMO](https://choubari.github.io/Glassmorphism-Portfolio/)**.
+### **Live [DEMO](https://fantastic-rambo.github.io/portfolio)**.
 
 
 #
