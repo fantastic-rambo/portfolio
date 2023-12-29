@@ -1,4 +1,4 @@
-# Glassmorphism-Portfolio
+# A Glassmorphism-Portfolio
 This is a static HTML/CSS Glassmorphism Portfolio based on @developedbyed [tutorial](https://www.youtube.com/watch?v=O7WbVj5apxU).
 
 ## Sample Screenshot :
