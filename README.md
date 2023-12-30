@@ -5,7 +5,7 @@ This is a static HTML/CSS Glassmorphism Portfolio based on @developedbyed [tutor
 <p align="center">
   <img  src="images/screenshot.PNG">
 
-### **Live [DEMO](https://fantastic-rambo.github.io/portfolio)**.
+### **Live [PORTFOLIO](https://fantastic-rambo.github.io/portfolio)**.
 
 
 #
@@ -14,4 +14,3 @@ You can also check this interesting Medium Article about [Glassmorphism in user 
 
 <p align="right">
 <a href="https://www.buymeacoffee.com/isaacrambo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" width="140px" heigh="50px" ></a>
-
